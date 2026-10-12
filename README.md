@@ -4,7 +4,7 @@ When DeepSeek chat hits a content filter, the UI can replace your answer with a 
 
 **Browser:** Built and tested for **Google Chrome** (Manifest V3). Other **Chromium** browsers (Edge, Brave, Opera, etc.) often work the same way with **Load unpacked**; this project does not target Firefox or Safari.
 
-**Not affiliated with DeepSeek.** Captured text stays in **`chrome.storage.local`** on your machine (no backend).
+**Not affiliated with DeepSeek.** Captured text stays in **`chrome.storage.local`** on your machine (no backend). MIT License — see [LICENSE](LICENSE).
 
 ---
 
